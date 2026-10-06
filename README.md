@@ -1,7 +1,7 @@
 The project tree has been updated to remove both .gitignore and README.md from your directory map, reflecting only the core executable files and dependencies.
 Here is the corrected code block for your documentation:
 
-# OneTouch.AI> A voice-first personal AI assistant that interprets natural-language commands and translates them into system-level automation workflows.
+# OneTouch.AI  A voice-first personal AI assistant that interprets natural-language commands and translates them into system-level automation workflows.
 
 OneTouch.AI is a Python-based personal AI action engine designed to unify human-computer interaction through a single conversational interface. By eliminating manual application navigation and repetitive GUI tasks, the platform allows users to execute complex digital workflows using natural text or speech inputs.
 ---## Technical Overview
